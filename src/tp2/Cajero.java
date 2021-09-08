@@ -13,6 +13,7 @@ import java.util.logging.Logger;
  * @author Barba
  */
 public class Cajero {
+    //comentario
 
     private String nombre; // Agregar Constructor, y métodos de acceso 
     public Cajero(String nam){
