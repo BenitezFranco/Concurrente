@@ -23,6 +23,6 @@ public class ClienteCompra {
 
     public int[] getCarroCompra() {
         return carroCompra;
-    }
+    } 
     
 }
